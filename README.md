@@ -1,4 +1,4 @@
-# eslint-config-team23-angular
+# eslint-config-team23-ngrx
 
 A set of eslint rules used by TEAM23 for angular projects using NgRx
 
