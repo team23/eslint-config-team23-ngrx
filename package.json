@@ -1,6 +1,6 @@
 {
     "name": "@team23/eslint-config-team23-ngrx",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A set of eslint rules used by TEAM23 for angular projects using NgRx",
     "main": ".eslintrc.js",
     "scripts": {
@@ -14,6 +14,10 @@
     ],
     "author": "TEAM23 GmbH",
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/team23/eslint-config-team23-ngrx"
+    },
     "devDependencies": {
         "@angular-eslint/builder": "^13.0.0",
         "@angular-eslint/eslint-plugin": "^13.0.0",
